@@ -1,0 +1,6 @@
+npm i -g @vue/cli
+vue create <nome do projeto>
+vue add vuetify
+vue add electron-builder
+npm run electron:serve
+Install pluging Vetur on VSCODE
